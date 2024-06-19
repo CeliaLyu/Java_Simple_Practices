@@ -1,0 +1,27 @@
+User Id,First Name,Last Name,Version,Insurance Company
+1,John,Doe,1,CompanyA
+2,Jane,Smith,1,CompanyB
+3,Bob,Johnson,2,CompanyA
+1,John,Doe,2,CompanyA
+4,Alice,Williams,1,CompanyB
+5,Chris,Brown,1,CompanyA
+3,Bob,Johnson,1,CompanyA
+2,Jane,Smith,2,CompanyB
+4,Alice,Williams,2,CompanyB
+6,Eve,White,1,CompanyC
+7,John,Doe,1,CompanyA
+8,Jane,Doe,1,CompanyA
+9,Bob,Smith,1,CompanyB
+10,John,Doe,3,CompanyA
+11,Emily,Davis,1,CompanyD
+12,Tom,Jones,1,CompanyD
+13,Emma,Jones,1,CompanyD
+14,Michael,Smith,1,CompanyC
+15,Sophia,Johnson,1,CompanyC
+16,John,Smith,1,CompanyB
+17,Liam,Williams,1,CompanyB
+18,Olivia,Brown,1,CompanyA
+19,Noah,Miller,1,CompanyC
+20,Ava,Davis,1,CompanyD
+21,John,Doe,4,CompanyA
+22,Mia,Davis,2,CompanyD
