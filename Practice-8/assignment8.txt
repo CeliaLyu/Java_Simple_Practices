@@ -1,7 +1,0 @@
-## Problem Statement
-Todo Manager is an application, which can manage our Tasks and keep track of our Tasks. In
-the course of 4 week we will be creating a Todo manager.
-1. Please refactor the code and use separate thread for each client and visitor
-## Instructions:-
-
-1. Estimated completion time of the challenge will be 2hr.
